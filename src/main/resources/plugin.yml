@@ -2,3 +2,5 @@ name: PunishTool
 version: '1.0'
 main: me.loremente.punishtool.PunishTool
 api-version: 1.18
+commands:
+  punish:
